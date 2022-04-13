@@ -41,6 +41,8 @@
 
 
 - ### **H**
+  -[Harshit Rai](https://github.com/Harshitr10)
+
 
 
 - ### **I**
