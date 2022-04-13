@@ -56,7 +56,7 @@
 
 
 - ### **K**
-  - [Kanishk Pachauri](https://github.com/Mr-Sunglasses)
+  
 
 
 
@@ -64,7 +64,7 @@
 
 
 - ### **M**
-
+    - [Mayank Singhal](https://github.com/MayankSinghal45)
 
 
 - ### **N**
