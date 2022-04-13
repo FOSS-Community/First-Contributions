@@ -91,7 +91,8 @@
 - ### **Q**
 
 - ### **R**
-  - [Riya Jhankda](https://github.com/Riya-jhankda)
+  -[Rahul-Rajput](https://github.com/rahul731945)
+  -[Riya Jhankda](https://github.com/Riya-jhankda)
 
 
 
