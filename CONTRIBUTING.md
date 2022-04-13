@@ -60,6 +60,8 @@
 
 
 - ### **K**
+  - [Kanishk Pachauri](https://github.com/Mr-Sunglasses)
+  - [Kartikay](https://github.com/Kartikay-W-21-22-24)
   
 
 
