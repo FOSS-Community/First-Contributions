@@ -13,8 +13,11 @@
 ---
 
 - ### **A**
+
    - [Akshat Sharma](https://github.com/akshatcoder-hash)
   -  [Arjun](https://github.com/Arjuntyagi1)
+  -  [Aryaman Gupta](https://github.com/Gupta-Aryaman)
+
 
 - ### **B**
     
