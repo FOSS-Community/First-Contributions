@@ -141,7 +141,7 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 - ### **A**
    - [Akshat Sharma](https://github.com/akshatcoder-hash)
-
+   - [Akhilesh](https://github.com/Akki9015)
 
 - ### **B**
 
