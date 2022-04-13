@@ -15,9 +15,11 @@
 - ### **A**
 
    - [Akshat Sharma](https://github.com/akshatcoder-hash)
+   - [Abhas Chaudhari](https://github.com/Abhas25)
    - [akhilesh](https://github.com/Akki9015)
   -  [Arjun](https://github.com/Arjuntyagi1)
   -  [Aryaman Gupta](https://github.com/Gupta-Aryaman)
+ 
 
 
 - ### **B**
