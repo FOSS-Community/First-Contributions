@@ -82,7 +82,7 @@
 
 
 - ### **S**
-  - [Sarthak Dubey]{https://github.com/dubey0613}
+  - [Sarthak Dubey](https://github.com/dubey0613)
 
 
 - ### **T**
