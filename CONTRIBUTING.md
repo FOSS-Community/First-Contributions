@@ -13,11 +13,17 @@
 ---
 
 - ### **A**
+
    - [Akshat Sharma](https://github.com/akshatcoder-hash)
+   - [Abhas Chaudhari](https://github.com/Abhas25)
+   - [akhilesh](https://github.com/Akki9015)
+  -  [Arjun](https://github.com/Arjuntyagi1)
+  -  [Aryaman Gupta](https://github.com/Gupta-Aryaman)
+ 
 
 
 - ### **B**
-
+    
 
 
 - ### **C**
@@ -25,7 +31,7 @@
 
 
 - ### **D**
-
+  
  
 
 - ### **E**
@@ -37,10 +43,12 @@
 
 
 - ### **G**
-
+  - [Gaurav Ji Srivastava](https://github.com/GJS2162)
 
 
 - ### **H**
+  -[Harshit Rai](https://github.com/Harshitr10)
+
 
 
 - ### **I**
@@ -54,6 +62,7 @@
 - ### **K**
   - [Kanishk Pachauri](https://github.com/Mr-Sunglasses)
   - [Kartikay](https://github.com/Kartikay-W-21-22-24)
+  
 
 
 
@@ -61,7 +70,9 @@
 
 
 - ### **M**
-
+  - [Mayank_Kulshrestha](https://github.com/Gaming-addicted)
+ 
+  - [Mayank Singhal](https://github.com/MayankSinghal45)
 
 
 - ### **N**
@@ -73,12 +84,14 @@
 
 
 - ### **P**
+  - [Priyanshu Sharma](https://github.com/priyanshu20)
 
 
 
 - ### **Q**
 
 - ### **R**
+  - [Riya Jhankda](https://github.com/Riya-jhankda)
 
 
 
@@ -104,6 +117,7 @@
 - ### **X**
 
 - ### **Y**
+  -[Yash Soni](https://github.com/Ys55Wss)
 
 
 
