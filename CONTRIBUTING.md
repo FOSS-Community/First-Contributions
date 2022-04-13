@@ -14,7 +14,7 @@
 
 - ### **A**
    - [Akshat Sharma](https://github.com/akshatcoder-hash)
-
+   - [abhishek singh](https://github.com/Abhi7827)
 
 - ### **B**
 
