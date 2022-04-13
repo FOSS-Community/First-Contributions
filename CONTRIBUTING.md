@@ -13,11 +13,14 @@
 ---
 
 - ### **A**
-   -[Aryaman Gupta](https://github.com/Gupta-Aryaman)
+
+   - [Akshat Sharma](https://github.com/akshatcoder-hash)
+  -  [Arjun](https://github.com/Arjuntyagi1)
+  -  [Aryaman Gupta](https://github.com/Gupta-Aryaman)
 
 
 - ### **B**
-
+    
 
 
 - ### **C**
@@ -25,7 +28,7 @@
 
 
 - ### **D**
-
+  
  
 
 - ### **E**
@@ -37,7 +40,7 @@
 
 
 - ### **G**
-
+  - [Gaurav Ji Srivastava](https://github.com/GJS2162)
 
 
 - ### **H**
@@ -72,12 +75,14 @@
 
 
 - ### **P**
+  - [Priyanshu Sharma](https://github.com/priyanshu20)
 
 
 
 - ### **Q**
 
 - ### **R**
+  - [Riya Jhankda](https://github.com/Riya-jhankda)
 
 
 
