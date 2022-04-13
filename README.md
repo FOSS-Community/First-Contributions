@@ -141,10 +141,10 @@ Now let's get you started with contributing to other projects. We've compiled a 
 
 - ### **A**
    - [Akshat Sharma](https://github.com/akshatcoder-hash)
-
+   - [Aditya Pandey](https://github.com/adityyaa-10-hash)
 
 - ### **B**
-
+-  
 
 
 - ### **C**
