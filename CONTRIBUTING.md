@@ -1,4 +1,4 @@
-## `Free and Open-Source Community`
+## `Free and Open-Source Software Community`
 
 ### **Contents**
 
