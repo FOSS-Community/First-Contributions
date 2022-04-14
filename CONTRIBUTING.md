@@ -15,6 +15,7 @@
 - ### **A**
 
    - [Akshat Sharma](https://github.com/akshatcoder-hash)
+   - [Anugam Jain](https://github.com/Anugamjain)
    - [abhishek singh](https://github.com/Abhi7827)
    - [Abhas Chaudhari](https://github.com/Abhas25)
    - [akhilesh](https://github.com/Akki9015)
