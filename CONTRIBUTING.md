@@ -65,7 +65,7 @@
 - ### **K**
   - [Kanishk Pachauri](https://github.com/Mr-Sunglasses)
   - [Kartikay](https://github.com/Kartikay-W-21-22-24)
-  
+  - [Kushagra Srivastava](https://github.com/kushagrathisside)
 
 
 
@@ -104,7 +104,7 @@
 
   - [Sarthak Dubey](https://github.com/dubey0613)
 
-  - [Shubham Kumar Vishnoi](https://github.com/shubhamvishnoi3288
+  - [Shubham Kumar Vishnoi](https://github.com/shubhamvishnoi3288)
 
   - [Abhishek verma](https://github.com/abhishek28833)
   - [sachin lal](https://github.com/sachinlal7)
