@@ -96,7 +96,7 @@
 - ### **R**
   -[Rahul-Rajput](https://github.com/rahul731945)
   -[Riya Jhankda](https://github.com/Riya-jhankda)
-
+  -[Rohit Singh].(https://github.com/rohit3596singh)
 
 
 - ### **S**
