@@ -22,6 +22,7 @@
   -  [Arjun](https://github.com/Arjuntyagi1)
   -  [Aryaman Gupta](https://github.com/Gupta-Aryaman)
   -  [Aditya Bansal](https://github.com/AdityaBansal2310)
+  -  [Ayush Kumar](https://github.com/AyushK-101)
 
 - ### **B**
 
