@@ -1,7 +1,6 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Open Source Helpers](https://www.codetriage.com/roshanjossey/first-contributions/badges/users.svg)](https://www.codetriage.com/roshanjossey/first-contributions)
-# 
 
 # First Contributions
 
@@ -46,27 +45,21 @@ where `this-is-you` is your GitHub username. Here you're copying the contents of
 
 Change to the repository directory on your computer (if you are not already there):
 
-```
-cd first-contributions
-```
+    cd first-contributions
 
 Now create a branch using the `git checkout` command:
 
-```
-git checkout -b your-new-branch-name
-```
+    git checkout -b your-new-branch-name
 
 For example:
 
-```
-git checkout -b add-alonzo-church
-```
+    git checkout -b add-alonzo-church
 
 (The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open `CONTRIBUTING.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -74,15 +67,11 @@ If you go to the project directory and execute the command `git status`, you'll 
 
 Add those changes to the branch you just created using the `git add` command:
 
-```
-git add Contributors.md
-```
+    git add CONTRIBUTING.md
 
 Now commit those changes using the `git commit` command:
 
-```
-git commit -m "Add <your-name> to Contributors list"
-```
+    git commit -m "Add <your-name> to Contributors list"
 
 replacing `<your-name>` with your name.
 
@@ -90,9 +79,7 @@ replacing `<your-name>` with your name.
 
 Push your changes using the command `git push`:
 
-```
-git push origin <add-your-branch-name>
-```
+    git push origin <add-your-branch-name>
 
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
@@ -118,13 +105,6 @@ You could join our team in case you need any help or have any questions. [Join s
 
 Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [the list of projects in the web app](https://firstcontributions.github.io/#project-list).
 
-
-
-
-
-
-
-
 ## `Free and Open-Source Community`
 
 ### **Contents**
@@ -145,94 +125,52 @@ Now let's get you started with contributing to other projects. We've compiled a 
    - [Akhilesh](https://github.com/Akki9015)
 
 - ### **B**
--  
-
 
 - ### **C**
 
-
-
 - ### **D**
-
- 
 
 - ### **E**
 
-
-
 - ### **F**
-
-
 
 - ### **G**
 
-
-
 - ### **H**
-
 
 - ### **I**
 
-
-
 - ### **J**
-
-
 
 - ### **K**
   - [Kanishk Pachauri](https://github.com/Mr-Sunglasses)
 
-
-
 - ### **L**
-
 
 - ### **M**
 
-
-
 - ### **N**
-
-
 
 - ### **O**
 
-
-
 - ### **P**
-
-
 
 - ### **Q**
 
 - ### **R**
 
-
-
 - ### **S**
-
-
 
 - ### **T**
 
-
-
 - ### **U**
-
-
 
 - ### **V**
 
-
-
 - ### **W**
-
 
 - ### **X**
 
 - ### **Y**
 
-
-
 - ### **Z**
-
