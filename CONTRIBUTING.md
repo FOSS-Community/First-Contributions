@@ -22,114 +22,77 @@
   -  [Arjun](https://github.com/Arjuntyagi1)
   -  [Aryaman Gupta](https://github.com/Gupta-Aryaman)
   -  [Aditya Bansal](https://github.com/AdityaBansal2310)
-
+  -  [Ayush Kumar](https://github.com/AyushK-101)
 
 - ### **B**
-    
-
 
 - ### **C**
 
-
-
 - ### **D**
-  -[monika sharma](https://github.com/monikasharma1234)
-  
- 
+  - [monika sharma](https://github.com/monikasharma1234)
 
 - ### **E**
 
-
-
 - ### **F**
-
-
 
 - ### **G**
   - [Gaurav Ji Srivastava](https://github.com/GJS2162)
 
-
 - ### **H**
-  -[Harshit Rai](https://github.com/Harshitr10)
-
-
+  - [Harshit Rai](https://github.com/Harshitr10)
 
 - ### **I**
 
-
-
 - ### **J**
-
-
 
 - ### **K**
   - [Kanishk Pachauri](https://github.com/Mr-Sunglasses)
   - [Kartikay](https://github.com/Kartikay-W-21-22-24)
   - [Kushagra Srivastava](https://github.com/kushagrathisside)
 
-
-
 - ### **L**
-
 
 - ### **M**
   - [Mayank_Kulshrestha](https://github.com/Gaming-addicted)
- 
   - [Mayank Singhal](https://github.com/MayankSinghal45)
 
-
 - ### **N**
-
-
+  - [Nilmanshi Vyas](https://github.com/nilmanshi)
 
 - ### **O**
 
-
-
 - ### **P**
   - [Priyanshu Sharma](https://github.com/priyanshu20)
-
-
 
 - ### **Q**
 
 - ### **R**
   -[Rahul-Rajput](https://github.com/rahul731945)
   -[Riya Jhankda](https://github.com/Riya-jhankda)
-  -[Rohit Singh].(https://github.com/rohit3596singh)
+  -[Rohit Singh](https://github.com/rohit3596singh)
 
+  - [Rahul-Rajput](https://github.com/rahul731945)
+  - [Riya Jhankda](https://github.com/Riya-jhankda)
 
 - ### **S**
   - [Sarang Goel](https://github.com/sarang1032)
-
   - [Sarthak Dubey](https://github.com/dubey0613)
-
   - [Shubham Kumar Vishnoi](https://github.com/shubhamvishnoi3288)
-
   - [Abhishek verma](https://github.com/abhishek28833)
   - [sachin lal](https://github.com/sachinlal7)
+  - [Siddhesh Agarwal](https://github.com/Siddhesh-Agarwal)
 
 - ### **T**
 
-
-
 - ### **U**
-
-
 
 - ### **V**
 
-
-
 - ### **W**
-
 
 - ### **X**
 
 - ### **Y**
-  -[Yash Soni](https://github.com/Ys55Wss)
-
-
+  - [Yash Soni](https://github.com/Ys55Wss)
 
 - ### **Z**
-
